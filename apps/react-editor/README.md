@@ -26,7 +26,7 @@ React Wrapper of TOAST UI Editor applies Google Analytics (GA) to collect statis
 ### Using npm
 
 ```sh
-npm install --save @toast-ui/react-editor
+npm install --save @toast-ui/editor @toast-ui/react-editor
 ```
 
 ## 📝 Usage
